@@ -46,8 +46,8 @@ void deadlines(string today, int HEIGHT, int WIDTH, string array_list[][8])
             {
                 cout << array_list[i][j] << "\t\t";
             }
+        cout << "\n";        
         }
-        cout << "\n";
 
     }
 }
